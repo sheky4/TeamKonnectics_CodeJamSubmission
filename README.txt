@@ -8,7 +8,7 @@ The following is basic instructions on the operations of the Kitchen Konnect Sys
 	- https://youtu.be/WPVJVQPk3k8
 
 	THE VIDEO PRESENTATION OF THE SYSTEM
-	- https://www.youtube.com/watch?v=WPVJVQPk3k8&feature=youtu.be
+	- https://www.youtube.com/watch?v=QsYnNIYGcd8&feature=youtu.be
 
 	THE USER MANUALS IN VIDEO FORMAT
 	- Web Front - Grocery 
